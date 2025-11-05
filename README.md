@@ -12,7 +12,7 @@ A modern, AI-powered legal document analysis platform that helps users understan
 
 ![LawBuddy AI](https://img.shields.io/badge/Status-Active-success)
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ssrade/Hack2Skill)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MaNaa04/Hack2Skill)
 
 ## 🎯 What is LawBuddy AI?
 
